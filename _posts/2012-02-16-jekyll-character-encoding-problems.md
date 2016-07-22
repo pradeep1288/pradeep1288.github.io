@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "jekyll character encoding problems"
-comments: true
 category: technology 
 tags: [jekyll, ruby]
 ---
