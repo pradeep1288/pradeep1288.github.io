@@ -24,13 +24,16 @@ We arrived at Portaland on a Saturday morning around 8am from San Jose. We left 
 
 We looked on airbnb for a nice little place, and found this amazing treehouse by the Washougal river. This place is 15 minutes drive from Portland Airport, however it’s on the Washington side. The setting of the treehouse is just breathtaking. You sleep peacefully to the sound of the flowing river. You can make reservations for this treehouse on airbnb [here](https://www.airbnb.com/rooms/3425988)
 
+
 ## Trip
 
 ### Day 1
 
 We grabbed our breakfast quickly and started driving towards Silver Lake State Park in Eugene, Oregon. It’s a roughly a 2 hour drive from Portland airport. The drive itself is gorgeous. You should be able to find Silver Lake State Park on google maps. Once in the park, drive to the South Falls parking lot. You need to collect a parking permit for the day at the parking entrance it costs around 5$.
 
+
 The best thing to do here is to hike the trail called “Trail of Ten Falls”. This trail is roughly a 6 mile loop offering breathtaking views and as the name goes, you would get a chance to see ten different waterfalls. Some portions of the trail take you behind the waterfalls too. The trail is well shaded, cool and offers a lot of greenery. If you are a nature lover, you would love this place. This is a easy to moderately strenuous trail. Once you park at the South Falls Day-Use area, take the canyon trail and complete the loop and come back to the parking lot via Rim trail.
+
 
 This would pretty much take up most of your day. You can drive back to Portland, and spend some time in Portland Downtown and get back to your accommodation for the night and call it a day.
 
