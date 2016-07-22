@@ -1,8 +1,6 @@
 ---
-layout: single
 title: "Travelling, the last 18 months"
 author_profile: true
-comments: true
 category: travel
 tags: [travel]
 ---
