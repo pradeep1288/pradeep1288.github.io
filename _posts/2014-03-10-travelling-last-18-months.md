@@ -29,7 +29,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Visited New York City, and fell in love with the city
+### Visited New York City, and fell in love with the city
 
 <figure class="half">
   <img src="/images/travel_story/3.jpg">
@@ -38,7 +38,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and celebrated New Year 2013 in Times Square.
+### and celebrated New Year 2013 in Times Square.
 
 <figure>
   <img src="/images/travel_story/5.jpg">
@@ -64,7 +64,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and was mesmerised by some amazing greenery
+### and was mesmerised by some amazing greenery
 
 <figure class="half">
   <img src="/images/travel_story/10.jpg">
@@ -73,7 +73,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and more greenery.
+### and more greenery.
 
 <figure class="half">
   <img src="/images/travel_story/12.jpg">
@@ -82,7 +82,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Visited San Fransisco
+### Visited San Fransisco
 
 <figure class="half">
   <img src="/images/travel_story/14.jpg">
@@ -91,7 +91,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and fell in love with the city.
+### and fell in love with the city.
 
 <figure class="third">
 <img src="/images/travel_story/16.jpg">
@@ -101,7 +101,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Did some wine tasting in Napa Valley.
+### Did some wine tasting in Napa Valley.
 
 <figure>
 <img src="/images/travel_story/19.jpg">
@@ -109,7 +109,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Being a huge fan of Steve Jobs, paid a visit to One Infinite Loop.
+### Being a huge fan of Steve Jobs, paid a visit to One Infinite Loop.
 
 <figure>
 <img src="/images/travel_story/20.jpg">
@@ -117,7 +117,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Spent a weekend at Lake Tahoe.
+### Spent a weekend at Lake Tahoe.
 
 <figure class="third">
 <img src="/images/travel_story/21.jpg">
@@ -127,7 +127,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Said Hello to my friends in Seattle
+### Said Hello to my friends in Seattle
 
 <figure>
 <img src="/images/travel_story/24.jpg">
@@ -135,7 +135,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and went around Seattle.
+### and went around Seattle.
 
 <figure class="third">
 <img src="/images/travel_story/25.jpg">
@@ -145,7 +145,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Camped for the first time ever at Yosemite
+### Camped for the first time ever at Yosemite
 
 <figure>
 <img src="/images/travel_story/28.jpg">
@@ -153,7 +153,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and went hiking, got this crazy picture.
+### and went hiking, got this crazy picture.
 
 <figure>
 <img src="/images/travel_story/29.jpg">
@@ -161,7 +161,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Travelled to New York again to watch Federer play.
+### Travelled to New York again to watch Federer play.
 
 <figure class="third">
 <img src="/images/travel_story/30.jpg">
@@ -172,7 +172,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Had a stop over at Hong Kong. Went out and explored.
+### Had a stop over at Hong Kong. Went out and explored.
 
 <figure class="third">
 <img src="/images/travel_story/33.jpg">
@@ -182,7 +182,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Went home after 1.5 years and got a very nice welcome
+### Went home after 1.5 years and got a very nice welcome
 
 <figure>
 <img src ="/images/travel_story/52.jpg">
@@ -190,7 +190,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Spent some awesome time with best buddies in Gokarna.
+### Spent some awesome time with best buddies in Gokarna.
 
 <figure class="third">
 <img src="/images/travel_story/36.jpg">
@@ -199,7 +199,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Partied in Goa
+### Partied in Goa
 
 <figure class="third">
 <img src="/images/travel_story/38.jpg">
@@ -209,7 +209,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Drove to Big Sur via Highway 1
+### Drove to Big Sur via Highway 1
 
 <figure class="third">
 <img src="/images/travel_story/41.jpg">
@@ -219,7 +219,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Apart from travelling, I have hiked a lot of peaks
+### Apart from travelling, I have hiked a lot of peaks
 
 <figure class="third">
 <img src="/images/travel_story/44.jpg">
@@ -229,7 +229,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###and more peaks.
+### and more peaks.
 
 <figure class="half">
 <img src="/images/travel_story/47.jpg">
@@ -248,7 +248,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-##What I gained out of travelling ?
+## What I gained out of travelling ?
 
 * Met amazing people, and made friends.
 * Got a chance to explore different food cuisines.
