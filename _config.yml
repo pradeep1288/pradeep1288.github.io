@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en-US"
+title                    : "Pradeep Nayak"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Pradeep Nayak"
+description              : "My experiences"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -18,9 +18,9 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "pradeepnayak" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "_prdp"
 facebook:
   username               :
   app_id                 :
@@ -63,22 +63,22 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pradeep Nayak"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "World Citizen"
+  location         : "San Jose, CA"
+  email            : "pradeep1288@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "pradeepnayak"
   foursquare       :
-  github           :
+  github           : "pradeep1288"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "_prdp"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -86,7 +86,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "_prdp"
   vine             :
   weibo            :
   xing             :
