@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Redesigning my website using Jekyll"
-comments: true
 category: technology
 tags: [tutorials]
 ---
