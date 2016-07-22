@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Technical Summary - Rate limiting YouTube Video Streaming"
-comments: true
 category: technology
 tags: [youtube, google, networks, tcp]
 ---
