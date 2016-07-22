@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Mangalore Car Festival (Kodial Teru)"
-comments: true
 category: personal 
 tags: [festivals]
 ---
