@@ -1,8 +1,5 @@
 ---
-layout: single
-author_profile: true
 title: Designing the 2012 desk calendar
-comments: true
 category: personal
 tags: [calendar]
 ---
