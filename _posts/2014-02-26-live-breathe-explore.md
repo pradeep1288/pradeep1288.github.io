@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Live Breathe Explore"
-comments: true
 category: personal
 tags: [life, experience]
 ---
