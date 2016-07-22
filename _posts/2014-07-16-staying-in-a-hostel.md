@@ -1,7 +1,5 @@
 ---
-layout: single
 title: "Staying in a hostel"
-author_profile: "true"
 category: travel 
 tags: [travel, life, people]
 ---
