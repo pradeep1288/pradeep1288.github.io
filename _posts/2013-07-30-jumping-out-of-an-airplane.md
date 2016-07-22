@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Jumping out of an Airplane"
-comments: true
 category: personal 
 tags: [skydiving, summer, bucketlist]
 ---
