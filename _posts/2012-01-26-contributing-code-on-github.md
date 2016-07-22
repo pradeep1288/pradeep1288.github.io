@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Contributing code on Github"
-comments: true
 category: personal
 tags: [github]
 ---
