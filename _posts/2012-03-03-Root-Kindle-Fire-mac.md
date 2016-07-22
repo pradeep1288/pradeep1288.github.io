@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Root Kindle Fire - 6.2.2 on Mac OS X Lion"
-comments: true
 category: Hacks 
 tags: [kindle, amazon]
 ---
