@@ -26,6 +26,7 @@ We looked on airbnb for a nice little place, and found this amazing treehouse by
 
 
 ## Trip
+Our trip had spanned over a couple of days.
 
 ### Day 1
 
@@ -33,7 +34,6 @@ We grabbed our breakfast quickly and started driving towards Silver Lake State P
 
 
 The best thing to do here is to hike the trail called “Trail of Ten Falls”. This trail is roughly a 6 mile loop offering breathtaking views and as the name goes, you would get a chance to see ten different waterfalls. Some portions of the trail take you behind the waterfalls too. The trail is well shaded, cool and offers a lot of greenery. If you are a nature lover, you would love this place. This is a easy to moderately strenuous trail. Once you park at the South Falls Day-Use area, take the canyon trail and complete the loop and come back to the parking lot via Rim trail.
-
 
 This would pretty much take up most of your day. You can drive back to Portland, and spend some time in Portland Downtown and get back to your accommodation for the night and call it a day.
 
