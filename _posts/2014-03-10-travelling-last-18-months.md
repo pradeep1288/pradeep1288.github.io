@@ -12,7 +12,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###I live in Los Angeles. So went and saw the Hollywood sign up-close.
+### I live in Los Angeles. So went and saw the Hollywood sign up-close.
 
 <figure>
   <img src="/images/travel_story/1.jpg">
@@ -20,7 +20,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Did my first ever road trip to San Diego.
+### Did my first ever road trip to San Diego.
 
 <figure>
   <img src="/images/travel_story/2.jpg">
@@ -46,7 +46,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Then, partied, gambled and had loads of fun in Las Vegas.
+### Then, partied, gambled and had loads of fun in Las Vegas.
 
 <figure class="third">
 <img src="/images/travel_story/6.jpg">
@@ -238,7 +238,7 @@ pictures which I clicked while I travelled.
 
 <br/>
 
-###Skydiving, Flyboarding and Skiing.
+### Skydiving, Flyboarding and Skiing.
 
 <figure class="third">
 <img src="/images/travel_story/49.jpg">
