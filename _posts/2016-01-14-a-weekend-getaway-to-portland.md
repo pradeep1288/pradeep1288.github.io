@@ -20,7 +20,7 @@ We arrived at Portaland on a Saturday morning around 8am from San Jose. We left 
 <figure>
   <img src = "/images/airbnb_portland.jpg">
   <figcaption>Treehouse by the Washougal River</figcaption>
-<figure>
+</figure>
 
 We looked on airbnb for a nice little place, and found this amazing treehouse by the Washougal river. This place is 15 minutes drive from Portland Airport, however it’s on the Washington side. The setting of the treehouse is just breathtaking. You sleep peacefully to the sound of the flowing river. You can make reservations for this treehouse on airbnb [here](https://www.airbnb.com/rooms/3425988)
 
