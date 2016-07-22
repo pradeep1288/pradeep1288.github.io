@@ -1,9 +1,10 @@
 ---
 title: "Staying in a hostel"
 header:
-    image: maui_hostel.jpg
+    overlay_image: maui_hostel.jpg
 category: travel 
 tags: [travel, life, people]
+excerpt: A refreshing experience 
 ---
 I have been travelling quite a bit in the past couple of years and I have mostly stayed at hotels. However during my last vacation, I went to Maui and stayed in a hostel for a week. I have come to realise on how much fun I have missed all these years. This was my first time staying at a hostel and it was a refreshing experience.
 
