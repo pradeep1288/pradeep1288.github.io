@@ -1,8 +1,7 @@
 ---
-title: A weekend getway to Portland
+title: A weekend getaway to Portland
 header: 
-  overlay-image: multonmah-falls.jpg
-  caption: Multonmah Falls, Portland
+  overlay-image: multonmah_falls.jpg
 exercpt: Ideas on a weekned itenary visiting Portland
 categories:
  - travel
