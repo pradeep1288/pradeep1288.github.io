@@ -23,7 +23,6 @@ I am using [Disqus](http://disqus.com) for mananging comments on my [blog](/blog
 * Add a variable `comments` to the [YAML Font Matter](https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter) and set its value to `true`. A sample font matter would like:
 
 		---
-		layout: post
 		comments: true
 		title: Hello World
 		---

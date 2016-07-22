@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "HowMany - A simple foursquare app that summarizes your check in's"
 comments: true
 category: technology

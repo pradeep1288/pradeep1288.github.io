@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Say Happy Birthday to your friend on Facebook programatically"
 comments: true
 category: technology

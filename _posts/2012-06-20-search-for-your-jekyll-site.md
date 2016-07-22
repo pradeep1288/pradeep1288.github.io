@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Search for your Jekyll Site"
 comments: true
 category: technology 

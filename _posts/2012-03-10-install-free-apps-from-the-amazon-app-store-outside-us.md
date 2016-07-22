@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Install free Apps from the Amazon app store outside US"
 comments: true
 category: Hacks

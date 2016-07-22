@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Down Memory Lane"
 comments: true
 category: personal

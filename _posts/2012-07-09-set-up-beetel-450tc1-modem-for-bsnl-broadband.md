@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Set up beetel 450TC1 router for BSNL broadband"
 comments: true
 category: tutorials 

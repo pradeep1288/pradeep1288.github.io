@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Prevent your Mac from sleeping"
 comments: true
 category: technology

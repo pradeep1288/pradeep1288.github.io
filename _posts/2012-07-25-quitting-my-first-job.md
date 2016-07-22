@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Quitting my first job"
 comments: true
 category: personal

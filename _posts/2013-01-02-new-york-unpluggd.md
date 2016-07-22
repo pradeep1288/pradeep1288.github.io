@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New York Unpluggd "
 comments: true
 category: travel

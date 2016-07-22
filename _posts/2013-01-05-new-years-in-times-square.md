@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New Years in Time's Square"
 comments: true
 category: travel

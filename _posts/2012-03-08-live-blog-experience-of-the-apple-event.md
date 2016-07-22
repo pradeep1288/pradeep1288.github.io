@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Live blog experience of the Apple Event"
 comments: true
 category: technology 

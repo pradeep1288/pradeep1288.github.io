@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Programatically responding to your B'day wishes on Facebook"
 comments: true
 category: technology

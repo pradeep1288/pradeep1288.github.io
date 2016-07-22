@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Getting the Graduate Assistantship"
 comments: true
 category: personal

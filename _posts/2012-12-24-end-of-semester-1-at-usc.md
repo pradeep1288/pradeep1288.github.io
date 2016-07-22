@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "End of Semester 1 at USC"
 comments: true
 category: personal

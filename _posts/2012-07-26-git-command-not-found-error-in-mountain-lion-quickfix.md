@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Git “Command Not Found” Error In Mountain Lion [Quickfix]"
 comments: true
 category: technology

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "root kindle fire 6.3 on Mac OSX Lion"
 comments: true
 category: technology 

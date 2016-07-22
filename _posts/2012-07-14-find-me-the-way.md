@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Find me the way"
 comments: true
 category: tutorials  

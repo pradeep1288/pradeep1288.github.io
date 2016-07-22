@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "San Diego Day Trip"
 comments: true
 category: travel

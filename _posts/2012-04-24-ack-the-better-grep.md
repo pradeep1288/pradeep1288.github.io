@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ack: the better grep"
 comments: true
 category: technology

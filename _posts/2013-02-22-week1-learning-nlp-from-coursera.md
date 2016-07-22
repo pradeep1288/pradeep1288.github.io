@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Week1: Learning NLP from Coursera"
 comments: true
 category: coursera
