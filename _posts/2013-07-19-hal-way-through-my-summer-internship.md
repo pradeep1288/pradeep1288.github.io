@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Half way through my Summer Internship
-comments: true
 category: personal
 tags: [summer, internship, goals]
 ---
