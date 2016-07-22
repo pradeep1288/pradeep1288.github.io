@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Kindle Fire - My first touch device"
-comments: true
 category: technology
 tags: [amazon, kindle, reviews]
 ---
