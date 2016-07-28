@@ -118,7 +118,7 @@ For those wondering what itenary I followed during this trip, I have listed belo
 I boarded the California Zephyr 6 train from Emeryville, CA. I spent most of the first day in the train enjoying scenery. I arrived at Salt Lake City, Utah next day around 3:00a.m in the morning.
 
 ### Day 2:
-Picked up rental car at the Salt Lake City Airport, and drove to Grand Teton National Park. The drive was through beautiful state of Idaho. I saw a lot of lush green fields, learnt that Idaho is the potato capital of the world. I then enjoyed stunning mountain scapes at Grand Teton, did lots of Hiking, some kayaking in glacial waters, enjoyed the sunset and crashed for the night.
+Picked up rental car from Salt Lake City Airport, and drove to Grand Teton National Park. The drive was through beautiful state of Idaho. I saw a lot of lush green fields, learnt that Idaho is the potato capital of the world. I then enjoyed stunning mountain scapes at Grand Teton, did lots of Hiking, some kayaking in glacial waters, enjoyed the sunset and crashed for the night.
 
 ### Day 3: 
 I chilled in a little Ski Resort called Grand Targhee Resort for half a day. I began heading back to Salt Lake City do some local sightseeing. Visited The Great Salt Lake and learnt that its the second highest salt concentrated water body in the world after Dead Sea. I ate good dinner and watched a movie to kill time and boarded the Zephyr train to Denver at 3:30a.m in the morning.
