@@ -12,10 +12,10 @@ excerpt: Travelling cross country across America by Train
 ---
 
 ## Introduction
+
 I have never travelled by train in the United States since the time I have been here. All this while, I have always flown in/out of a destination or I have driven or I have taken the bus. So this time around I decided to give the trains in America a chance.
 
-In July 2016, I travelled across the USA by train. Travelling from coast to coast in the U.S is considered one of the unique travel experiences in the world. If you were to search for it, I am sure you will find a lot adventures. One such adventure is this train journey across the country. The California Zephyr train from San Fransisco to Chicago provides you one such mind blowing experience. If you do the journey without any breaks then it would take you close to 3 full days. However, you should hop on and off the train to make it more fun. You will have to make separate bookings for each leg your travel. 
-
+In July 2016, I travelled across the USA by train. Travelling from coast to coast in the U.S is considered one of the unique travel experiences in the world. If you were to search for it, I am sure you will find a lot of adventures. One such adventure is this train journey across the country. The California Zephyr train from San Fransisco to Chicago provides you one such mind blowing experience. If you were to do this journey without any breaks, then it would take you close to 3 full days. However, you should hop on and off the train to make it more fun. You will have to make separate bookings for each leg of your travel. 
 
 ## Cost
 
@@ -23,7 +23,7 @@ I know most of you would be wondering how much would this adventure cost? It's a
 
 * First Leg, **Emeryville, CA --> Salt Lake City, UT**. Cost: $78, Journey time: 17Hrs
 * Second Leg, **Salt Lake City, UT --> Denver, CO**. Cost: $72, Journey time: 16Hrs
-* Third Leg, **Denver, CO --> Chicago, IL**. I did not do take the train for this part because it was mostly through the night and I would have slept through it. I took a flight with SouthWest instead as I found a dirt cheap deal for $56. However if you take the train then it would take you 17Hrs.
+* Third Leg, **Denver, CO --> Chicago, IL**. I did not take the train for this part because it was mostly through the night and I would have slept through it. I took a flight with Southwest airlines instead as I found a dirt cheap deal for $56. If you do end up taking the train then it would take you 17Hrs.
 
 Total Cost: $206*
 
@@ -46,20 +46,20 @@ From stunning views of the San Francisco Bay, to the views of higher Sierra Neva
 </figure>
 
 
-**The train begins to cruise, slowly passing by the San Fransisco Bay and making its way through most of northern california.**
+**The train begins to cruise, slowly passing by the San Fransisco Bay and making its way through most of Northern California.**
 
 <figure>
 	<img src="/images/train/bay.jpg">
 </figure>
 
 
-**As the train gains altitude as high as 9000ft above sea level, ears begin to pop. It begins to provide stunning views of the valley below. It slowly navigates its way through the Sierra Nevada mountain range passing through many different tunnels making its way via the famous Donner Pass.**
+**As the train gains altitude as high as 9000ft above sea level, ears begin to pop. Some stunning views of the valley begins to emerge below. It slowly navigates its way through the Sierra Nevada mountain range passing through many different tunnels making its way via the famous Donner Pass.**
 
 <figure>
 	<img src="/images/train/sierra.jpg">
 </figure>
 
-**This is the observation car of the train. You can chill in this car to enjoy the scenery. They have a panoromic roof which provides beautiful views. There are chairs which face the windows directly and regualr tables for larger groups. You can grab your snacks, sip some wine, read a book or even play board games with friends. You also get to meet random cool people here.**
+**This is the observation car of the train. You can chill in this car to enjoy the scenery. They have a panoromic windows which provide you beautiful views. There are chairs which face the windows directly and regualr tables for larger groups. You can grab your snacks, sip some wine, read a book or even play board games with friends. You also get to meet random cool people here.**
 
 <figure>
 	<img src="/images/train/observation_car.jpg">
@@ -71,7 +71,7 @@ From stunning views of the San Francisco Bay, to the views of higher Sierra Neva
 	<img src="/images/train/pradeep.jpg">
 </figure>
 
-**There is only one dining car for the entire train. So it can get crowded during lunch/dinner. They first serve all the passengers in the sleeper car and then the coach class passengers. Make sure you reserve ahead of time and hear for the anounement for your table. You can also carry snacks before you board the train and munch on them. There is a snack bar, however options here are limited**
+**There is only one dining car for the entire train. So it can get crowded during lunch/dinner. They first serve all the passengers in the sleeper class and then the coach class passengers. Make sure you reserve ahead of time and hear for the anounement for your table when it's available. You can also carry snacks before you board the train and munch on them. There is a snack bar, however options here are limited**
 <figure>
 	<img src="/images/train/dining_car.jpg">
 </figure>
@@ -91,7 +91,7 @@ From stunning views of the San Francisco Bay, to the views of higher Sierra Neva
 	<img src="/images/train/village.jpg">
 </figure>
 
-**Some rock formations in Utah. The landscapes keeps changing so fast and you begin to lose track of it**
+**Some rock formations in Utah. The landscapes keep changing so fast that you begin to lose track of it**
 <figure>
 	<img src="/images/train/desert.jpg">
 </figure>
@@ -106,7 +106,7 @@ From stunning views of the San Francisco Bay, to the views of higher Sierra Neva
 	<img src="/images/train/random_place.jpg">
 </figure>
 
-**There are many more pictures and they still won't be enought for me to describe how adventurous this whole experience has been for me. But you get the idea!**
+**There are many more pictures and they still won't be enough for me to describe how adventurous this whole experience has been for me. But you get the idea!**
 
 ## My Itenary
 
