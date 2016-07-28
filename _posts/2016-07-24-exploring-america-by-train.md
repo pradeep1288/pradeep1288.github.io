@@ -11,8 +11,6 @@ tags:
 excerpt: Travelling cross country across America by Train 	
 ---
 
-{% include toc title="Table of Contents" icon="file-text" %}
-
 ## Introduction
 I have never travelled by train in the United States since the time I have been here. All this while, I have always flown in/out of a destination or I have driven or I have taken the bus. So this time around I decided to give the trains in America a chance.
 
