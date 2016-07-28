@@ -6,7 +6,7 @@ category: travel
 tags: [travel, life, people]
 excerpt: A refreshing experience
 ---
-I have been travelling quite a bit in the past couple of years and I have mostly stayed at hotels. However during my last vacation, I went to Maui and stayed in a hostel for a week. I have come to realize on how much fun I have missed all these years. This was my first time staying at a hostel and it was a refreshing experience.
+I have been traveling quite a bit in the past couple of years and I have mostly stayed at hotels. However during my last vacation, I went to Maui and stayed in a hostel for a week. I have come to realize on how much fun I have missed all these years. This was my first time staying at a hostel and it was a refreshing experience.
 
 * Diversity. In just under a week, I had met people from Switzerland, Germany, London, Australia, Costa Rica, Colombia, France, Czech Republic, Canada, Singapore and Spain.
 
