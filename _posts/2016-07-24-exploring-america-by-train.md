@@ -117,7 +117,7 @@ No, this train doesn't provide any WiFi service. I believe in a way this is good
 The coach class seats are like the business class seats on airplane's big, comfortable and semi-reclinable. The food is not included. The Roomette class provides you a private room for two, with beds to sleep and meals included.
 
 ### Are the toilets clean ?
-The toilets are like the one's on airplanes but a little bigger. They are very clean and its cleaned throughout the journey at every major train station.
+Each car has about 3-4 toilets. The toilets are like the one's on airplanes but a little bigger. They are very clean and its cleaned throughout the journey at every major train station.
 
 ## My Itinerary
 
