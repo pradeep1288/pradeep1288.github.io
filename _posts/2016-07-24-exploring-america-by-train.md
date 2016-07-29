@@ -108,6 +108,17 @@ From stunning views of the San Francisco Bay, to the views of higher Sierra Neva
 
 **There are many more pictures and they still won't be enough for me to describe how adventurous this whole experience has been for me. But you get the idea!**
 
+## FAQ
+
+### Does this train have WiFi service?
+No, this train doesn't provide any WiFi service. I believe in a way this is good, so that you actually enjoy your journey. There is Cellphone reception for most parts, however the data connection is spotty.
+
+### What is the difference between Coach and Roomette class (sleeper) ?
+The coach class seats are like the business class seats on airplane's big, comfortable and semi-reclinable. The food is not included. The Roomette class provides you a private room for two, with beds to sleep and meals included.
+
+### Are the toilets clean ?
+The toilets are like the one's on airplanes but a little bigger. They are very clean and its cleaned throughout the journey at every major train station.
+
 ## My Itinerary
 
 For those wondering what itinerary I followed during this trip, I have listed below. Please feel free to hack around it and use it like it is below. I totally spent 7 days doing this. I have split the itinerary by the day.
