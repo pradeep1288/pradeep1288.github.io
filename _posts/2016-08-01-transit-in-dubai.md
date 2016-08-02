@@ -1,7 +1,7 @@
 ---
 title: Transit In Dubai
 header:
-    image: dubai.jpg
+    overlay_image: dubai.jpg
     teaser: dubai.jpg
     caption: Dubai Skyline as seen from Palm Jumeriah monorail
 
