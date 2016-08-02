@@ -2,6 +2,7 @@
 title: "Staying in a hostel"
 header:
     overlay_image: maui_hostel.jpg
+    teaser: maui_hostel.jpg
 category: travel
 tags: [travel, life, people]
 excerpt: A refreshing experience
