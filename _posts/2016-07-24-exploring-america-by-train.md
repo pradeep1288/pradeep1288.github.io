@@ -2,6 +2,7 @@
 title: Exploring America By Train
 header:
     image: amtrack.jpg
+    teaser: amtrack.jpg
     caption: Westbound California Zephyr by Book Cliffs in Utah (**Wikipedia**)
 category:
     - travel
